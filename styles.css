@@ -1,0 +1,119 @@
+form {
+    border: 3ch;
+}
+h3{
+    color:aqua ;
+}
+form{
+    color: blue;
+    align-items: center;
+    align-content: center;
+    
+}
+input{
+    align-content: center;
+    align-tracks: center;
+}
+#center{
+    color: blueviolet;
+    align-content: center;
+}
+button{
+    color: blueviolet;
+}
+#size{
+    border-color: black;
+    background: red;
+    border-width: 10px;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 208px;
+    margin-right: 208px;
+    border: black;
+    background: blanchedalmond;
+    outline-style: solid;
+    outline-color: black;
+    outline-width: 10px;
+}
+h3{
+    margin-left: 600px;
+    margin-right: 600px;
+    text-align: center;
+    color: slateblue;
+    border-width: 1px;
+    border: black;
+    background: yellow;
+}
+h1{
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: center;
+    color: slateblue;
+    border-width: 1px;
+    border: black;
+    background: yellow;
+}
+h2{
+    margin-left: 500px;
+    margin-right: 500px;
+    text-align: center;
+    color: slateblue;
+    border-width: 1px;
+    border: black;
+    background: yellow;
+}
+h4{
+    margin-left: 30px;
+    margin-right: 1220px;
+    font-size: medium;
+    color: slateblue;
+    border-width: 1px;
+    border: black;
+    background: yellow
+}
+/* Add a black background color to the top navigation */
+.navigation a{
+  background-color: #333;
+  overflow: hidden;
+  text-align: end;
+}
+ul{
+    margin-left: 30px;
+    margin-right: 1120px;
+    font-size: medium;
+    color: slateblue;
+    border-width: 1px;
+    border: black;
+    background: yellow
+}
+
+/* Style the links inside the navigation bar */
+.navigation a{
+  float: left;
+  color:whitesmoke;
+  text-align: end;
+  padding: 14px 110px;
+  text-decoration: none;
+  font-size: 15px;
+  align-content: center;
+  border: #f2f2f2;
+  border-width: 10px;
+}
+
+/* Change the color of links on hover */
+.navigation a:hover {
+  background-color: #04AA6D;
+  color: whitesmoke;
+}
+
+/* Add a color to the active/current link */
+.navigation a.active {
+  background-color: #04AA6D;
+  color: white;
+  float: left;
+}
